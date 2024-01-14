@@ -1,1 +1,25 @@
+||googlevideo.com^
+||googleadservices.comgooglevideo.com^
+||ad.doubleclick.net^
+||googleads.g.doubleclick.net^
+||doubleclick.net^
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+||safebrowsing.googleapis-cn.com
+||doubleclick.net
+||rr*.googlevideo.com.lan^$important
+||suggestqueries-clients6.youtube.com^$important
+||^https?://.*lan.*$
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+||android.googleapis.com^$important
+||bcebos.com^$important
+/bcebos.com/^$important
+/yximgs.com/^$important
+/w3.org/^$important
 /^https?:\/\/([a-z0-9\-]+\.)*ad\.[a-z\.]{2,6}\//
