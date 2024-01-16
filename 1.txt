@@ -22,5 +22,5 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 /bcebos.com/^$important
 /yximgs.com/^$important
 /w3.org/^$important
-/^https?:\/\/([a-z0-9\-]+\.)*ad\.[a-z\.]{2,6}\//
+/^(\S+\.)?s?metrics\./
 ||api.ad.xiaomi.com^$important
