@@ -2,6 +2,7 @@
 /^(\S+\.)?s?log\./
 /^(\S+\.)?s?(analytics|analyse)\./
 /^(\S+\.)?s?ad\./
+/^(\S+\.)?s?(vad|vads)\./
 /bcebos.com/^$important
 /yximgs.com/^$important
 /w3.org/^$important
