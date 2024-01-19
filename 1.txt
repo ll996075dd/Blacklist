@@ -1,7 +1,8 @@
 #正则规则
 /^(\S+\.)?s?log\./
 /^(\S+\.)?s?(analytics|analyse)\./
-/^(\S+\.)?s?ad\./
+/^(\S+\.)?s?(Ad|Ads)\./
+/^(\S+\.)?s?(ad|ads)\./
 /^(\S+\.)?s?(vad|vads)\./
 /bcebos.com/^$important
 /yximgs.com/^$important
