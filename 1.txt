@@ -1,4 +1,6 @@
 #正则规则
+/^(\S+\.)?s?log\./
+/^(\S+\.)?s?(analytics|analyse)\./
 /^(\S+\.)?s?ad\./
 /^(\S+\.)?s?ad\./
 /bcebos.com/^$important
