@@ -16,6 +16,7 @@ youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 
 #普通规则
+||checkadblock.ru^$removeparam=/^_ads_/
 ||googlevideo.com^
 ||googleadservices.comgooglevideo.com^
 ||ad.doubleclick.net^
