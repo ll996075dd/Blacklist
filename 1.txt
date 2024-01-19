@@ -1,10 +1,23 @@
+#正则规则
+/^(\S+\.)?s?ad\./
+/^(\S+\.)?s?ad\./
+/bcebos.com/^$important
+/yximgs.com/^$important
+/w3.org/^$important
+/googleads.$~script,domain=~googleads.github.io/
+/pagead/lvz?/
+||^https?://.*lan.*$
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
+#普通规则
 ||googlevideo.com^
 ||googleadservices.comgooglevideo.com^
 ||ad.doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||doubleclick.net^
-/googleads.$~script,domain=~googleads.github.io
-/pagead/lvz?
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
@@ -12,17 +25,8 @@
 ||doubleclick.net
 ||rr*.googlevideo.com.lan^$important
 ||suggestqueries-clients6.youtube.com^$important
-||^https?://.*lan.*$
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||android.googleapis.com^$important
 ||bcebos.com^$important
-/bcebos.com/^$important
-/yximgs.com/^$important
-/w3.org/^$important
-/^(\S+\.)?s?ad\./
 ||api.ad.xiaomi.com^$important
 ||pdc.micloud.xiaomi.net^
 ||active.tc.skysrt.com^
