@@ -1,4 +1,7 @@
 #正则规则
+/ad/^$important
+/AD/^$important
+/Ad/^$important
 /^(\S+\.)?s?log\./
 /^(\S+\.)?s?(analytics|analyse)\./
 /^(\S+\.)?s?(Ad|Ads)\./
