@@ -123,3 +123,4 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||gdmf.apple.com^
 ||ocsp.apple.com^
 ||world-gen.g.aaplimg.com^
+||extshort.weixin.qq.com^
