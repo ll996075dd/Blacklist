@@ -120,3 +120,6 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||gdmf.apple.com^
 ||ocsp.apple.com^
 ||world-gen.g.aaplimg.com^
+||passport.iqiyi.com^$important
+||video.market.xiaomi.com$important
+||iface2.iqiyi.com^$important
