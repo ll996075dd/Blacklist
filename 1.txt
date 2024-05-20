@@ -124,7 +124,6 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||video.market.xiaomi.com$important
 ||iface2.iqiyi.com^$important
 ||szextshort.weixin.qq.com^
-||szmmsns.qpic.cn^
 ||extshort.weixin.qq.com^$important
 ||*.sm.cn^$important
 ||*.uc.cn^$important
