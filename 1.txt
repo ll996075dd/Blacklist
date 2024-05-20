@@ -126,3 +126,8 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||szextshort.weixin.qq.com^
 ||szmmsns.qpic.cn^
 ||extshort.weixin.qq.com^$important
+||*.sm.cn^$important
+||*.uc.cn^$important
+||sm.cn^$important
+||uc.cn^$important
+||img.alicdn.com^$important
