@@ -133,3 +133,4 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||tb*.bdstatic.com^$important
 ||pim.baidu.com^$important
 ||pn.baidu.com^$important
+||inews.gtimg.com^$important
