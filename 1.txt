@@ -134,3 +134,7 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||pim.baidu.com^$important
 ||pn.baidu.com^$important
 ||inews.gtimg.com^$important
+||dw-data-channel.quark.cn^$important
+||c.sm.cn^$important
+||stars.shuqireader.com^$important
+||hp-cms.quark.cn^$important
