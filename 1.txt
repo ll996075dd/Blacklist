@@ -25,10 +25,10 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 wxs.qq.com
 wxqcloud.qq.com.cn
 ###重要规则
-||umeng.com^
-||janapi.jd.com^
-||xlog.jd.com^
-||pangolin-sdk-toutiao.com^
+||umeng.com^$important
+||janapi.jd.com^$important
+||xlog.jd.com^$important
+||pangolin-sdk-toutiao.com^$important
 ||dkys.org^$important
 ||youtusoft.com^$important
 ||hostbuf.com^$important
