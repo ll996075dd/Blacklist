@@ -1,3 +1,4 @@
+Title: AdGuard Rules
 ###正则规则
 /^(\S+\.)?s?log\./
 /^(\S+\.)?s?(analytics|analyse)\./
