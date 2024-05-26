@@ -22,6 +22,7 @@ youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 
 ###普通规则
+wxs.qq.com
 ||dkys.org^$important
 ||youtusoft.com^$important
 ||hostbuf.com^$important
