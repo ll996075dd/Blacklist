@@ -1,4 +1,4 @@
-#正则规则
+###正则规则
 /^(\S+\.)?s?log\./
 /^(\S+\.)?s?(analytics|analyse)\./
 /^(\S+\.)?s?(Ad|Ads)\./
@@ -15,7 +15,7 @@ youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 
-#普通规则
+###普通规则
 ||dkys.org^$important
 ||youtusoft.com^$important
 ||hostbuf.com^$important
@@ -138,3 +138,5 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||c.sm.cn^$important
 ||stars.shuqireader.com^$important
 ||hp-cms.quark.cn^$important
+###高级规则
+||wxsnsdythumb.wxs.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
