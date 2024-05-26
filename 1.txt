@@ -23,6 +23,7 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 
 ###普通规则
 wxs.qq.com
+prewxacode.wxqcloud.qq.com.cn
 ||dkys.org^$important
 ||youtusoft.com^$important
 ||hostbuf.com^$important
