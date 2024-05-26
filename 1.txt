@@ -140,3 +140,7 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||hp-cms.quark.cn^$important
 ###高级规则
 ||wxsnsdythumb.wxs.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
+||extshort.weixin.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
+||wx.qlogo.cn^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
+||aedns.weixin.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
+||minorshort.weixin.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
