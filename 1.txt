@@ -156,5 +156,6 @@ wxqcloud.qq.com.cn
 ||aedns.weixin.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
 ||minorshort.weixin.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
 ||wxsnsdy.wxs.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
+||https://wxqcloud.qq.com.cn^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
 
 
