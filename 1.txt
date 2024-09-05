@@ -443,5 +443,26 @@ appinn.com##.featured-section
 /.*pangolin.*/
 /.*pglstatp.*/
 /.*umeng.*/
-
+#微信广告
+||wximg.wxs.qq.com^
+||szminorshort.weixin.qq.com^
+||omgup.xiaojukeji.com^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
+||wxsnsdythumb.wxs.qq.com^
+||shp.qpic.cn^
+||szextshort.weixin.qq.com^
+||api.lelaer.com^
+||wxs.qq.com^
+||image.weilanwl.com^
+||appcfg.v.qq.com^
+||glog.aldwx.com^
+||game-api.feigo.fun^
+||mmbiz.qpic.cn^
+||wxqcloud.qq.com.cn^
+||wx.qlogo.cn^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||api.talkingdata.com^
+||res.servicewechat.com^
+||minorshort.weixin.qq.com^
+||extshort.weixin.qq.com^
 
