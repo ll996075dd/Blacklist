@@ -453,4 +453,3 @@ appinn.com##.featured-section
 ||appcfg.v.qq.com^
 ||glog.aldwx.com^
 ||game-api.feigo.fun^
-||mmbiz.qpic.cn^$important
