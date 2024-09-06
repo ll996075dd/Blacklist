@@ -457,7 +457,6 @@ appinn.com##.featured-section
 ||appcfg.v.qq.com^
 ||glog.aldwx.com^
 ||game-api.feigo.fun^
-||wxqcloud.qq.com.cn^
 ||wx.qlogo.cn^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||api.talkingdata.com^
