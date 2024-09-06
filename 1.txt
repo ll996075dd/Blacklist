@@ -444,6 +444,7 @@ appinn.com##.featured-section
 /.*pglstatp.*/
 /.*umeng.*/
 #微信广告
+||api.talkingdata.com
 ||omgup.xiaojukeji.com^
 ||shp.qpic.cn^
 ||api.lelaer.com^
