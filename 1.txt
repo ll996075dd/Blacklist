@@ -444,13 +444,12 @@ appinn.com##.featured-section
 /.*pglstatp.*/
 /.*umeng.*/
 #微信广告
-||wximg.wxs.qq.com^
-||wxsnsdythumb.wxs.qq.com^
+||omgup.xiaojukeji.com^
 ||shp.qpic.cn^
 ||api.lelaer.com^
-||wxs.qq.com^
+||wxs.qq.com^$important
 ||image.weilanwl.com^
 ||appcfg.v.qq.com^
 ||glog.aldwx.com^
 ||game-api.feigo.fun^
-||api.talkingdata.com^
+||mmbiz.qpic.cn^$important
