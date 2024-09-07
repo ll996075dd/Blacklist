@@ -452,7 +452,7 @@ appinn.com##.featured-section
 ||login.live.com^$important
 ||aedns.weixin.qq.com^$important
 ||wximg.wxs.qq.com^$important
-||^wxsmw.wxs.qq.com$important
+||wxsmw.wxs.qq.com$important
 ‖*.hortorgames.com^
 ||*.feigo.fun^
 ||mmwxalite.wxqcloud.qq.com^
@@ -470,4 +470,4 @@ appinn.com##.featured-section
 ||appcfg.v.qq.com^
 ||glog.aldwx.com^
 ||game-api.feigo.fun^
-||mmbiz.qpic.cn^$important
+
