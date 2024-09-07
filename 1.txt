@@ -22,6 +22,7 @@ youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 
 ###高级规则
+‖mp.weixin.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
 ||wxsnsdythumb.wxs.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
 ||extshort.weixin.qq.com^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
 ||wx.qlogo.cn^.*\.(jpg|jpeg|png|gif|mp4|avi|mov|mkv)$important
@@ -315,5 +316,8 @@ appinn.com##.featured-section
 /.*pglstatp.*/
 /.*umeng.*/
 #微信广告
-
+‖prewxacode.wxqcloud.qq.com.cn^
+‖launchwxacode.wxqcloud.qq.com.cn^
+‖mmgame.qpic.cn^
+‖appcfg.v.qq.com^
 
