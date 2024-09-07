@@ -444,23 +444,5 @@ appinn.com##.featured-section
 /.*pglstatp.*/
 /.*umeng.*/
 #微信广告
-||mcs.ctobsnssdk.com^$important
-||szlong.weixin.qq.com^$important
-||appcfg.v.qq.com^$important
-||restapi.amap.com^$important
-||login.live.com^$important
-||aedns.weixin.qq.com^$important
-‖*.hortorgames.com^
-||*.feigo.fun^
-/checkNewVersion/
-||nbpicture.xyz
-||jiankang.baidu.com$important
-||yt.danfengkejiwangluo.cn^
-||szminorshort.weixin.qq.com^
-||omgup.xiaojukeji.com^
-||shp.qpic.cn^
-||api.lelaer.com^
-||image.weilanwl.com^
-||glog.aldwx.com^
-||game-api.feigo.fun^
+
 
