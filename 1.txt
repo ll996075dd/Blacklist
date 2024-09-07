@@ -450,8 +450,6 @@ appinn.com##.featured-section
 ||restapi.amap.com^$important
 ||login.live.com^$important
 ||aedns.weixin.qq.com^$important
-||wximg.wxs.qq.com^$important
-||wxsmw.wxs.qq.com$important
 ‖*.hortorgames.com^
 ||*.feigo.fun^
 /checkNewVersion/
@@ -463,7 +461,6 @@ appinn.com##.featured-section
 ||shp.qpic.cn^
 ||api.lelaer.com^
 ||image.weilanwl.com^
-||appcfg.v.qq.com^
 ||glog.aldwx.com^
 ||game-api.feigo.fun^
 
