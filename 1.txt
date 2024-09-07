@@ -447,7 +447,6 @@ appinn.com##.featured-section
 ||mcs.ctobsnssdk.com^$important
 ||szlong.weixin.qq.com^$important
 ||appcfg.v.qq.com^$important
-||prewxacode.wxqcloud.qq.com.cn^$important
 ||restapi.amap.com^$important
 ||login.live.com^$important
 ||aedns.weixin.qq.com^$important
@@ -455,17 +454,14 @@ appinn.com##.featured-section
 ||wxsmw.wxs.qq.com$important
 ‖*.hortorgames.com^
 ||*.feigo.fun^
-||mmwxalite.wxqcloud.qq.com^
 /checkNewVersion/
 ||nbpicture.xyz
 ||jiankang.baidu.com$important
 ||yt.danfengkejiwangluo.cn^
 ||szminorshort.weixin.qq.com^
 ||omgup.xiaojukeji.com^
-||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||shp.qpic.cn^
 ||api.lelaer.com^
-||wxs.qq.com^$important
 ||image.weilanwl.com^
 ||appcfg.v.qq.com^
 ||glog.aldwx.com^
