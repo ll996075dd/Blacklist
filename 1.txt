@@ -77,13 +77,11 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||lf*-*-video.bytedcdn.com^
 #京东广告
 ||mapi.m.jd.com^
-||api.m.jd.com^
 ||uranus.jd.com^
 ||addata.jd.com^
 ||wl.jd.com^
 ||wq.jd.com^
 ||ccc-x.jd.com^
-||pro.m.jd.com^
 ||img-x.jd.com^
 ||im-x.jd.com^
 ||xlog.jd.com^
