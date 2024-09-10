@@ -1,9 +1,7 @@
 [个人规则 1.0]
 ! Title: 个人去广告规则
 ! Homepage:https://raw.githubusercontent.com/ll996075dd/Blacklist
-! Expires: 24 Hours
-! Version: 2024-05-26 09:09:54（北京时间）
-! Description: 适用于AdGuard的去广告规则
+! Description: 适用于AdGuard home的去广告规则
 ###正则规则
 /^(\S+\.)?s?log\./
 /^(\S+\.)?s?(analytics|analyse)\./
